@@ -1,0 +1,1 @@
+If they say they need you to build feature x, then they believe feature x will deliver some amount of value, and they believe that feature x is something that is viable for the business.
